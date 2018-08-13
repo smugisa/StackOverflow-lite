@@ -11,4 +11,4 @@ StackOverflow-lite is a platform where people can ask questions and provide answ
 <li>Users can accept an answer out of all the answers to his/her question as the preferred answer.</li>
 </u>
 
-To view the application please use https://smugisa.github.io/StackOverflow-lite/.
+<p>To view the application please use https://smugisa.github.io/StackOverflow-lite/.</p>
